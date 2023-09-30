@@ -20,7 +20,7 @@ function App() {
     <main
       className="relative bg-darkGrayishBlue h-fit pt-10 px-6 pb-16 rounded-[10px] md:rounded-[15px] mx-auto
     w-[95%] md:w-[540px] text-center md:px-12 md:pt-12 md:pb-[72px]
-    shadow-[30px_50px_80px_0_rgba(0,0,0,0.10)]"
+    shadow-[30px_50px_80px_0_rgba(0,0,0,0.10)] font-extrabold"
     >
       <h1 className="pb-6 text-neonGreen tracking-[4.086px] text-[11px] md:text-[13px]">
         ADVICE #{advice?.slip.id}
